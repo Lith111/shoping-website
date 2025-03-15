@@ -1,0 +1,28 @@
+.mobile {
+  /* background-color: red; */
+  position: relative;
+}
+.mobile span {
+  position: absolute;
+  /* background-color: blue; */
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border: 3px solid rgba(106, 108, 117, 0.418);
+  border-radius: 50%;
+  z-index: -1;
+  box-shadow: 3px 3px 10px 3px rgba(133, 74, 173, 0.185),
+    -3px -3px 10px 3px rgba(133, 74, 173, 0.185);
+}
+.mobile #first {
+  width: 60% !important;
+  height: 60%;
+}
+.mobile #secondy {
+  width: 75% !important;
+  height: 75%;
+}
+.mobile #laster {
+  width: 90%;
+  height: 90%;
+}
