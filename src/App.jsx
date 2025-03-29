@@ -1,6 +1,6 @@
 import Catalogue from "./components/Catalogue/Catalogue";
 import Favourite from "./components/Favourite/Favourite";
-import Header from "./Components/Header/Header";
+import Header from "./components/Header/Header";
 import Loading from "./components/Loading/Loading";
 import PayDay from "./components/PayDay/PayDay";
 import MobileApp from "./components/MobileApp/MobileApp";
