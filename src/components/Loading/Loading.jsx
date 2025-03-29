@@ -1,6 +1,6 @@
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
 import Giral from "../images/Loading.png";
-import star from "../images/star.png";
+import star from "../images/Star.png";
 import amazon from "../images/amazon-removebg-preview.png";
 import handW from "../images/H_M-removebg-preview.png";
 import levels from "../images/levels-removebg-preview.png";
